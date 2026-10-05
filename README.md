@@ -4,6 +4,9 @@ A browser remake of the classic **Missile Command** arcade game, built with
 [Phaser 3](https://phaser.io/). Defend six cities and three missile silos
 against waves of enemy missiles, UFOs and smart bombs.
 
+Started with ChatGPT (bad results) then finished with Claude 5.5
+
+
 **▶ Play online:** https://www.hrdinovefantasy.cz/demo/missile/
 
 ## Features
