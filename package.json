@@ -1,0 +1,19 @@
+{
+  "name": "missile-commander-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node build-dist.mjs",
+    "dist": "node build-dist.mjs"
+  },
+  "dependencies": {
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.0"
+  },
+  "description": "Browser remake of the classic Missile Command arcade game, built with Phaser 3.",
+  "license": "UNLICENSED"
+}
